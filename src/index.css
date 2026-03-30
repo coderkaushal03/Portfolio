@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    @apply bg-[#050505] text-white;
+  }
+}
+
+@layer utilities {
+  .text-neon {
+    text-shadow: 0 0 10px rgba(0, 240, 255, 0.7), 0 0 20px rgba(0, 240, 255, 0.5);
+  }
+  .box-neon {
+    box-shadow: 0 0 15px rgba(176, 38, 255, 0.5), inset 0 0 10px rgba(176, 38, 255, 0.2);
+  }
+}
