@@ -15,8 +15,8 @@ const projects = [
     title: 'Personal Portfolio Website',
     description: 'A responsive and modern 3D portfolio website to showcase my skills and interactive projects.',
     tech: ['React', 'Tailwind', 'Three.js'],
-    github: '#',
-    demo: '#'
+    github: 'https://github.com/coderkaushal03/Portfolio',
+    demo: 'https://portfolio-three-amber-g2sslnp37k.vercel.app/'
   },
   {
     title: 'DSA Practice Programs',
