@@ -9,7 +9,7 @@ const projects = [
     description: 'A web-based food ordering system designed for efficient modern canteen management.',
     tech: ['HTML', 'CSS', 'JavaScript'],
     github: 'https://github.com/coderkaushal03/PU-Smart-Canteen.git',
-    demo: 'https://pu-smart-canteen.onrender.com'
+    demo: 'https://pu-smart-canteen.vercel.app/'
   },
   {
     title: 'Personal Portfolio Website',
